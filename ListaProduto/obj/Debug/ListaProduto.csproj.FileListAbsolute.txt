@@ -1,0 +1,7 @@
+E:\JOÃO\Estrutura de Dados\ConsoleApp1\ConsoleApp1\bin\Debug\ListaProduto.exe.config
+E:\JOÃO\Estrutura de Dados\ConsoleApp1\ConsoleApp1\bin\Debug\ListaProduto.exe
+E:\JOÃO\Estrutura de Dados\ConsoleApp1\ConsoleApp1\bin\Debug\ListaProduto.pdb
+E:\JOÃO\Estrutura de Dados\ConsoleApp1\ConsoleApp1\obj\Debug\ListaProduto.csprojResolveAssemblyReference.cache
+E:\JOÃO\Estrutura de Dados\ConsoleApp1\ConsoleApp1\obj\Debug\ListaProduto.csproj.CoreCompileInputs.cache
+E:\JOÃO\Estrutura de Dados\ConsoleApp1\ConsoleApp1\obj\Debug\ListaProduto.exe
+E:\JOÃO\Estrutura de Dados\ConsoleApp1\ConsoleApp1\obj\Debug\ListaProduto.pdb
