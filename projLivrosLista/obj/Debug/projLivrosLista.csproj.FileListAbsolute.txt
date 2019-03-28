@@ -1,0 +1,20 @@
+c:\users\leon\documents\visual studio 2015\Projects\projLivrosLista\projLivrosLista\bin\Debug\projLivrosLista.exe.config
+C:\Users\Leon\Documents\Visual Studio 2015\Projects\projLivrosLista\projLivrosLista\bin\Debug\projLivrosLista.exe
+C:\Users\Leon\Documents\Visual Studio 2015\Projects\projLivrosLista\projLivrosLista\bin\Debug\projLivrosLista.pdb
+C:\Users\Leon\Documents\Visual Studio 2015\Projects\projLivrosLista\projLivrosLista\obj\Debug\projLivrosLista.csprojResolveAssemblyReference.cache
+C:\Users\Leon\Documents\Visual Studio 2015\Projects\projLivrosLista\projLivrosLista\obj\Debug\projLivrosLista.exe
+C:\Users\Leon\Documents\Visual Studio 2015\Projects\projLivrosLista\projLivrosLista\obj\Debug\projLivrosLista.pdb
+E:\projLivrosLista\bin\Debug\projLivrosLista.exe.config
+E:\projLivrosLista\bin\Debug\projLivrosLista.exe
+E:\projLivrosLista\bin\Debug\projLivrosLista.pdb
+E:\projLivrosLista\obj\Debug\projLivrosLista.csprojResolveAssemblyReference.cache
+E:\projLivrosLista\obj\Debug\projLivrosLista.csproj.CoreCompileInputs.cache
+E:\projLivrosLista\obj\Debug\projLivrosLista.exe
+E:\projLivrosLista\obj\Debug\projLivrosLista.pdb
+C:\git\projLivrosLista\bin\Debug\projLivrosLista.exe.config
+C:\git\projLivrosLista\bin\Debug\projLivrosLista.exe
+C:\git\projLivrosLista\bin\Debug\projLivrosLista.pdb
+C:\git\projLivrosLista\obj\Debug\projLivrosLista.csprojResolveAssemblyReference.cache
+C:\git\projLivrosLista\obj\Debug\projLivrosLista.csproj.CoreCompileInputs.cache
+C:\git\projLivrosLista\obj\Debug\projLivrosLista.exe
+C:\git\projLivrosLista\obj\Debug\projLivrosLista.pdb
