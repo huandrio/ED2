@@ -1,0 +1,9 @@
+C:\Users\aluno\Desktop\ProjetoAtendimento-Fila--master\ProjetoAtendimento-Fila--master\ProjetoAtendimento(Fila)\projAtendimento\bin\Release\projAtendimento.exe.config
+C:\Users\aluno\Desktop\ProjetoAtendimento-Fila--master\ProjetoAtendimento-Fila--master\ProjetoAtendimento(Fila)\projAtendimento\bin\Release\projAtendimento.exe
+C:\Users\aluno\Desktop\ProjetoAtendimento-Fila--master\ProjetoAtendimento-Fila--master\ProjetoAtendimento(Fila)\projAtendimento\bin\Release\projAtendimento.pdb
+C:\Users\aluno\Desktop\ProjetoAtendimento-Fila--master\ProjetoAtendimento-Fila--master\ProjetoAtendimento(Fila)\projAtendimento\obj\Release\projAtendimento.Properties.Resources.resources
+C:\Users\aluno\Desktop\ProjetoAtendimento-Fila--master\ProjetoAtendimento-Fila--master\ProjetoAtendimento(Fila)\projAtendimento\obj\Release\ProjetoAtendimento.Views.Atendimento.resources
+C:\Users\aluno\Desktop\ProjetoAtendimento-Fila--master\ProjetoAtendimento-Fila--master\ProjetoAtendimento(Fila)\projAtendimento\obj\Release\ProjetoAtendimento.csproj.GenerateResource.Cache
+C:\Users\aluno\Desktop\ProjetoAtendimento-Fila--master\ProjetoAtendimento-Fila--master\ProjetoAtendimento(Fila)\projAtendimento\obj\Release\ProjetoAtendimento.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\ProjetoAtendimento-Fila--master\ProjetoAtendimento-Fila--master\ProjetoAtendimento(Fila)\projAtendimento\obj\Release\projAtendimento.exe
+C:\Users\aluno\Desktop\ProjetoAtendimento-Fila--master\ProjetoAtendimento-Fila--master\ProjetoAtendimento(Fila)\projAtendimento\obj\Release\projAtendimento.pdb
